@@ -1,0 +1,23 @@
+{
+  "name": "webpack-5-crash-course",
+  "version": "1.0.0",
+  "description": "webpack config setup",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninjasujan/webpack-5-crash-course.git"
+  },
+  "author": "sujan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ninjasujan/webpack-5-crash-course/issues"
+  },
+  "homepage": "https://github.com/ninjasujan/webpack-5-crash-course#readme",
+  "devDependencies": {
+    "webpack": "^5.75.0",
+    "webpack-cli": "^5.0.0"
+  }
+}
